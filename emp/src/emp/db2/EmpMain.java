@@ -108,9 +108,10 @@ public class EmpMain {
 				break;
 			default:
 				break;
+			
 			}
 		}
-		
+		sc.close();
 		
 		
 		
